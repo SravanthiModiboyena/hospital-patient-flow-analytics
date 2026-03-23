@@ -168,12 +168,6 @@ The **Healthcare Patient Flow Dashboard** provides insights into:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.  
-Feel free to use and adapt for learning or production.
-
----
-
 **Author**: *SravanthiModiboyena*  
 
 **Contact**: [modiboyena@gmail.com](mailto:modiboyena@gmail.com)
